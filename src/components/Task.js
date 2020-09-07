@@ -27,7 +27,7 @@ export default function Task({
 					type="text"
 					value={title}
 					readOnly={true}
-					placeholder="Input title"
+					placeholder=""
 					style={{ background: 'green' }}
 				/>
 			</div>
