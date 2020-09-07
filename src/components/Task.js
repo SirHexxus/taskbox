@@ -27,7 +27,6 @@ export default function Task({
 					type="text"
 					value={title}
 					readOnly={true}
-					placeholder=""
 					style={{ background: 'red' }}
 				/>
 			</div>
